@@ -35,25 +35,26 @@ const tejas = {
 
 ## 💼 Professional Experience
 
-### 🔬 Lead Software Engineer - Magic Labs (UW Madison)
+### 🔬 Software Engineer - Magic Labs (UW Madison)
 **Sept 2024 – Present**
-- Built **web-based motion capture system** using MediaPipe API for real-time pose detection
-- Led Agile team with **code reviews** and optimized **CI/CD pipelines**
-- Designed scalable **Firebase infrastructure** for real-time authentication & data collection
-- Reduced Firebase costs through **buffered frame storage** and optimized database calls
+- Developed an AI-powered full-stack application that performs real-time pose detection and evaluation from live
+camera input, enabling interactive STEM education through embodied learning
+- Built secure Firebase authentication and data pipelines in JavaScript, implementing complex Firebase Security
+Rules to prevent unauthorized access and ensure safe data handling
+- Optimized performance by buffering per-frame pose data, reducing Firebase read/write frequency and cutting
+database costs by 30%
+- Designed and implemented an intuitive React-based UI for editing game levels, including custom dialogues,
+pose-matching logic, sprite management, and background configurations
+- Wrote algorithms to produce smooth pose interpolation animations for better curriculum retention
 
-### 🤖 AI Intern - Ernst & Young (India)
+### 🤖 Artificial Intelligence Intern - Ernst & Young (India)
 **June 2025 – Aug 2025**
-- Designed and implemented a custom **AI model**, **ITC Predictor**, to detect fallacies, false records, and mismatches in invoices related to **Input Tax Credit**, enhancing **fraud detection** and **compliance accuracy**.
-- Developed a responsive **frontend web application** to interface with internal AI models, employing **GSAP** for complex scroll-based animations.
-- Enabled **secure Stripe transactions** and prevented **double payments** by assigning **unique transaction IDs**; additionally disabled payment buttons on click to avoid repeated frontend submissions.
-
-
-### 🗄️ Database Engineer Intern - Raise Solo (India)
-**May 2024 - Aug 2024**
-- Designed scalable healthcare databases with **Firebase** & **Apache Airflow ETL pipelines**
-- Achieved **99.9% anomaly detection rate** with automated data integrity verification
-- Built secure **RESTful APIs** with JWT authentication and role-based access control
+- Designed and implemented a custom AI model to detect fallacies, false records, and mismatches in invoices related
+to Input Tax Credit, enhancing fraud detection and compliance accuracy
+- Enabled secure Stripe transactions and prevented double payments by assigning unique transaction IDs; also
+disabled payment buttons on click to avoid repeated frontend submissions
+- Developed a responsive frontend web application to interface with internal AI models, and employed GSAP for
+complex scroll-based animations
 
 ---
 
@@ -105,31 +106,24 @@ const tejas = {
 ---
 
 ## 🎯 Featured Projects
+### Capstone Project for Atlatl Advisers | React, Next.js, Strapi, Vercel
+- Developed a production grade, ADA-compliant financial advisory platform with SEO-optimized architecture
+- Building an AI chatbot for onboarding guidance, FAQ answering, and lead qualification
+- Integrated algorithms for 12 financial calculators to increase user engagement and sign up
+- Used Strapi to enable non–technical clients to modify website data and hosted the website on Vercel
 
-### 🏀 [March Madness Betting Platform](https://github.com/glitch418)
-**React • Java • MySQL • Docker**
-
-Full-stack betting platform for March Madness with collaborative features
-- 🏗️ React frontend with Java backend architecture
-- 🗄️ MySQL database for reliable bet storage and retrieval
-- 🐳 Docker Compose orchestration for frontend, backend, MySQL, and phpMyAdmin
-- 👥 Real-time collaborative bet submission and tracking features
-
-### 💼 [Atlatl Advisers - Capstone Project](https://github.com/glitch418)
-**React • Next.js • Strapi • Vercel • GA4 • Looker Studio**
-
-ADA-compliant financial advisory platform with AI integration
-- 🤖 AI chatbot for onboarding and lead qualification
-- 📊 Analytics layer with GA4 + Looker Studio for funnel tracking
-- 🔗 Wealthbox CRM integration for automated lead capture
-- 📧 Google Workspace integration for scheduling automation
+### Full Stack March Madness Betting Platform | React, Java, MySQL, Docker
+- Developed a full-stack betting platform for March Madness with a React frontend and Vite build tool
+- Developed backend in Java and implement network protocols to connect Docker containers
+- Implemented self–populating MySQL database for storing and retrieving user bets with high reliability
+- Configured Docker Compose to run frontend, backend, MySQL, and phpMyAdmin containers seamlessly
 
 ### 🎮 [Reinforcement Learning Agent](https://github.com/glitch418)
 **Python • Gymnasium • NumPy**
 
 Q-Learning and SARSA agents for CliffWalking environment
-- 🧠 Optimized navigation reward algorithms
-- 📈 Visualization tools for policy analysis and debugging
+- Optimized navigation reward algorithms
+- Visualization tools for policy analysis and debugging
 
 ---
 
