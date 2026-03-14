@@ -53,7 +53,7 @@ const tejas = {
 - Implemented 12 interactive financial calculators for portfolio and retirement planning
 - Enabled non-technical content updates via Strapi CMS integration
 
-### Software Engineer Intern - Ernst & Young (India)
+### Software Engineer Intern - Ernst & Young
 **June 2025 – Aug 2025**
 - Improved fraud detection accuracy by 28% by building an AI-based anomaly detection system for input tax credit invoice mismatches
 - Implemented secure Stripe REST APIs with idempotent transaction handling and automated retry safeguards
