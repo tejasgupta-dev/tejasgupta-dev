@@ -16,7 +16,7 @@
 
 **BS Computer Science + Certificate in Data Science** at **University of Wisconsin-Madison** (Expected May 2026)
 
-Currently **Software Engineer Intern** at Magic Labs (UW Madison)
+Currently **Software Engineer Intern** at Magic Labs
 
 Researching **mmWave radar-based keyboard sensing** through opaque structures
 
